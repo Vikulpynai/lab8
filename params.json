@@ -1,7 +1,7 @@
 {
   "test_size": 0.25,
   "random_state": 42,
-  "model": "linear",
+  "model": "ridge",
   "alpha": 1.0,
   "dist_bins": 0
 }

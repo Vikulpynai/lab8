@@ -1,6 +1,6 @@
 {
   "cv_r2": 0.9162,
-  "test_r2": 0.9144,
-  "test_rmse": 27965,
-  "test_mae": 21006
+  "test_r2": 0.9151,
+  "test_rmse": 27847,
+  "test_mae": 20848
 }
