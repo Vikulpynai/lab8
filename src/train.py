@@ -16,7 +16,6 @@ params = json.loads((ROOT / "params.json").read_text(encoding="utf-8"))
 
 df = pd.read_csv(ROOT / "data" / "astana_rent_clean.csv")
 
-# Твои столбцы без dist_center
 num_cols = ["rooms", "area", "floor", "floors", "year"]
 cat_cols = ["district", "furniture"]
 
